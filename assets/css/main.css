@@ -207,10 +207,10 @@ body {
   -webkit-text-size-adjust: 100%; }
 
 ::selection {
-  background: #EEF498; }
+  background: #FFF498; }
 
 ::-moz-selection {
-  background: #FFF498; }
+  background: #DDF498; }
 
 img::selection {
   background: transparent; }
